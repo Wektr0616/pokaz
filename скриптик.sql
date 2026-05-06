@@ -1,8 +1,8 @@
 USE [master]
 GO
-CREATE DATABASE [EmploymentBureau1]
+CREATE DATABASE [EmploymentBureau]
 GO
-USE [EmploymentBureau1]
+USE [EmploymentBureau]
 GO
 /****** Object:  Table [dbo].[Admins]    Script Date: 05.05.2026 22:46:25 ******/
 SET ANSI_NULLS ON
